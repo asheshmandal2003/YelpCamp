@@ -50,18 +50,17 @@ YelpCamp is a campground-finding website that allows users to discover and share
 5. Start the application:
 
    ```shell
-   npm start
+   node index.js
    ```
 
 6. Open your web browser and go to [http://localhost:3000](http://localhost:3000) to access YelpCamp.
 
 ## Project Structure
 
-- `app.js`: The main application file where the Express app is configured.
+- `index.js`: The main application file where the Express app is configured.
 - `routes/`: Contains route files for campgrounds, reviews, user authentication, and user profiles.
 - `models/`: Defines the MongoDB models for campgrounds, reviews, and users.
 - `views/`: Contains the EJS templates for rendering the website's pages.
 - `public/`: Includes static files like stylesheets and client-side scripts.
 - `middleware/`: Custom middleware functions used in the application.
-- `config/`: Configuration files, including Passport.js setup.
 - `seed.js`: A script to seed the database with initial data (optional).

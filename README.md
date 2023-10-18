@@ -36,7 +36,7 @@ YelpCamp is a campground-finding website that allows users to discover and share
 2. Navigate to the project directory:
 
    ```shell
-   cd yelpcamp
+   cd YelpCamp
    ```
 
 3. Install the required dependencies:

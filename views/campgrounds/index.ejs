@@ -2,16 +2,16 @@
 <link rel="stylesheet" href="/css/description.css" />
 <link rel="stylesheet" href="/css/index.css" />
 
-<div class="box">
+<div class="box mb-5">
   <div id="map" style="width: 100%; height: 400px"></div>
   <h1 class="mb-3">
     Campgrounds
     <hr />
   </h1>
   <%for(let campground of campgrounds){%>
-  <div class="card mb-3" style="max-width: 60%">
+  <div class="card mb-3 col-md-8">
     <div class="row g-0">
-      <div class="col-md-6" style="max-height: 120%">
+      <div class="col-md-6">
         <img
           crossorigin="anonymous"
           src="<%= campground.images[0].path %>"

@@ -1,0 +1,29 @@
+body {
+  height: 100vw;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/11729594/pexels-photo-11729594.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  background-position: center;
+}
+.cover-container {
+  max-width: 90vw;
+}
+.navbar-brand {
+  font-weight: 700;
+}
+.nav-link {
+  padding: 0.2rem 0.5rem;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.6);
+  margin-left: 1rem;
+}
+.nav-link:hover {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.6);
+}
+
+.btn-secondary,
+.btn-secondary:hover {
+  color: #000;
+  font-weight: 500;
+  font-size: 1rem;
+}

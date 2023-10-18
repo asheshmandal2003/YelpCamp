@@ -30,7 +30,7 @@ YelpCamp is a campground-finding website that allows users to discover and share
 1. Clone the GitHub repository:
 
    ```shell
-   git clone https://github.com/yourusername/yelpcamp.git
+   git clone https://github.com/asheshmandal2003/YelpCamp.git
    ```
 
 2. Navigate to the project directory:

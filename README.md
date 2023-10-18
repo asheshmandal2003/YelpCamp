@@ -12,8 +12,6 @@ YelpCamp is a campground-finding website that allows users to discover and share
 
 - **Responsive Design**: YelpCamp is built with a responsive design, ensuring a great user experience on various devices, including desktop and mobile.
 
-- **User Profiles**: Users can view their profiles, edit their information, and see the campgrounds they've added and the reviews they've left.
-
 - **Search and Filter**: Visitors and users can search for campgrounds by name or location and filter results based on various criteria, such as ratings.
 
 ## Technologies Used
